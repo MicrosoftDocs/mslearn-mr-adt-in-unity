@@ -1,0 +1,20 @@
+{
+    "name": "BladeMR.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d6b24a4c1bc65864faaf7547a0fd1ca9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Maps.Unity.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

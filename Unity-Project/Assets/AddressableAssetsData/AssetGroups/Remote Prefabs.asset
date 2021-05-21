@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ab269355ec83d084f8c4c569c3bdb0d0
+  m_SerializeEntries:
+  - m_GUID: a58b25ae5bcacc84995b760f8d5ab97c
+    m_Address: Static Terrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 4616186493202290969, guid: a58b25ae5bcacc84995b760f8d5ab97c, type: 3}
+    m_TargetAsset: {fileID: 4616186493202290969, guid: a58b25ae5bcacc84995b760f8d5ab97c, type: 3}
+  - m_GUID: 664533bee6eaeac4a927392934a578e2
+    m_Address: Wind Turbine Design
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 4144966511589884690, guid: 664533bee6eaeac4a927392934a578e2, type: 3}
+    m_TargetAsset: {fileID: 4144966511589884690, guid: 664533bee6eaeac4a927392934a578e2, type: 3}
+  - m_GUID: 24fedc5dc190e194893195326d8d631e
+    m_Address: Wind Turbine Static Map
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2024fc14b4d727445ba77afe91f9dcf6
+    m_Address: Wind Turbine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 2129144256710056366, guid: 2024fc14b4d727445ba77afe91f9dcf6, type: 3}
+    m_TargetAsset: {fileID: 2129144256710056366, guid: 2024fc14b4d727445ba77afe91f9dcf6, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d207885b24b6cc4db0da10399714075, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b42c131f7e790794abb6d9ac966b69ad, type: 2}
+    - {fileID: 11400000, guid: 0578e43518857784cbb68346c15efa34, type: 2}
