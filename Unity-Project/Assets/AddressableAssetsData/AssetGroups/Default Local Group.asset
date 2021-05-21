@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: af8ca9019f4cd9b47a05a5d35a06ac23
+  m_SerializeEntries:
+  - m_GUID: c167f1656f9fcae43ab50a908a469ba0
+    m_Address: Assets/Tests/Test Assets/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d9084b0ef709c614bb130811e15fdaf6
+    m_Address: Bing Maps Operate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4132834978747560140, guid: d9084b0ef709c614bb130811e15fdaf6, type: 3}
+    m_TargetAsset: {fileID: 4132834978747560140, guid: d9084b0ef709c614bb130811e15fdaf6, type: 3}
+  - m_GUID: 4702cd734b8046a44bfa2042255f8cdb
+    m_Address: Bing Maps Design
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3004872086824017580, guid: 4702cd734b8046a44bfa2042255f8cdb, type: 3}
+    m_TargetAsset: {fileID: 3004872086824017580, guid: 4702cd734b8046a44bfa2042255f8cdb, type: 3}
+  - m_GUID: 040262564398d3f42bc2f6d0d832ebbe
+    m_Address: Bing Maps
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4159023234360292588, guid: 040262564398d3f42bc2f6d0d832ebbe, type: 3}
+    m_TargetAsset: {fileID: 4159023234360292588, guid: 040262564398d3f42bc2f6d0d832ebbe, type: 3}
+  - m_GUID: 7428a439a61f29c49bd302955b9e4fbf
+    m_Address: Wind Turbine Operate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 5559037048924457402, guid: 7428a439a61f29c49bd302955b9e4fbf, type: 3}
+    m_TargetAsset: {fileID: 5559037048924457402, guid: 7428a439a61f29c49bd302955b9e4fbf, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d207885b24b6cc4db0da10399714075, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6f1b80879c3be77498b9898da3dc3d75, type: 2}
+    - {fileID: 11400000, guid: eb96ba8e942b2574cb971f63b5ce9ed8, type: 2}

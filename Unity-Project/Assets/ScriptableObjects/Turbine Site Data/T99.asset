@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6ca782f7114a54da88d1b751ddaa05, type: 3}
+  m_Name: T99
+  m_EditorClassIdentifier: 
+  windTurbineData:
+    <TurbineId>k__BackingField: T99
+    <TimeInterval>k__BackingField: 
+    <EventCode>k__BackingField: 0
+    <EventDescription>k__BackingField: 
+    <WindSpeed>k__BackingField: 0
+    <AmbientTemperature>k__BackingField: 0
+    <RotorSpeed>k__BackingField: 0
+    <Power>k__BackingField: 0
+  windTurbineMetaData:
+    <FacilityName>k__BackingField: Sample Wind Turbine Site
+    <Latitude>k__BackingField: 36.70121066260686
+    <Longitude>k__BackingField: -78.37004458072485
+    <Heading>k__BackingField: 140
+    <TurbineModel>k__BackingField: Generic Wind Turbine 1701
+    <HubHeight>k__BackingField: 105
+    <RotorDiameter>k__BackingField: 154
+    <TipHeight>k__BackingField: 182
+    <FeederId>k__BackingField: 3
+    <ModelId>k__BackingField: 1
+    <Alert>k__BackingField: 0

@@ -1,0 +1,63 @@
+{
+    "@id": "dtmi:digitaltwins:Basic:Turbine;1",
+    "@type": "Interface",
+    "@context": [
+        "dtmi:dtdl:context;2"
+    ],
+    "displayName": "Wind Turbine -v1",
+    "description": "Wind Turbine data",
+    "contents": [
+        {
+            "@type": "Property",
+            "name": "TurbineID",
+            "displayName": "TurbineID",
+            "description": "The unique id of the turbine",
+            "writable": true,
+            "schema": "string"
+        },
+        {
+            "@type": "Property",
+            "name": "Alert",
+            "displayName": "Alert",
+            "description": "whether or not this turbine needs maintenance",
+            "writable": true,
+            "schema": "boolean"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "TimeInterval",
+            "description":  "The time interval of this data",
+            "schema": "string"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "Description",
+            "schema": "string"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "Code",
+            "schema": "integer"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "WindSpeed",
+            "schema": "double"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "Ambient",
+            "schema": "double"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "Rotor",
+            "schema": "double"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "Power",
+            "schema": "double"
+        }
+    ]
+}

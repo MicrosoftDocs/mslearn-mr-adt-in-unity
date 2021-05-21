@@ -1,0 +1,126 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="BladeMR, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MapPinIndicator" preserve="all" />
+    <type fullname="WindTurbineGameEvent" preserve="all" />
+    <type fullname="GameEventListener" preserve="all" />
+    <type fullname="WindTurbineController" preserve="all" />
+    <type fullname="MapZoomSlider" preserve="all" />
+    <type fullname="RotateRPM" preserve="all" />
+    <type fullname="MapLoadingIndicator" preserve="all" />
+    <type fullname="WindTurbineEventListener" preserve="all" />
+    <type fullname="MapPinIndicatorController" preserve="all" />
+    <type fullname="WindTurbineScriptableObject" preserve="all" />
+    <type fullname="TurbineSiteData" preserve="all" />
+    <type fullname="GameEvent" preserve="all" />
+    <type fullname="WindTurbineTooltipController" preserve="all" />
+    <type fullname="MapSceneController" preserve="all" />
+    <type fullname="MapRendererHover" preserve="all" />
+    <type fullname="DraggableMapPin" preserve="all" />
+    <type fullname="TargetPositionIndicator" preserve="all" />
+    <type fullname="HologramScale" preserve="all" />
+    <type fullname="SnapToGround" preserve="all" />
+    <type fullname="HoverMaterialSwitcher" preserve="all" />
+  </assembly>
+  <assembly fullname="Microsoft.MixedReality.Toolkit.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Microsoft.MixedReality.Toolkit.PhysicalPressEventRouter" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.BoundsControl.LinksConfiguration" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.BoundsControl.ProximityEffectConfiguration" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.ObjectManipulator" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.ToolTipConnector" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.ConstraintManager" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.BoundsControl.RotationHandlesConfiguration" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.States" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.ButtonIconSet" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.Interactable" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.RotationAxisConstraint" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.ButtonConfigHelper" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.Billboard" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.BoundsControl.TranslationHandlesConfiguration" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.BoundsControl.BoxDisplayConfiguration" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.BoundsControl.BoundsControl" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.Theme" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.Input.PointerHandler" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.BoundsControl.ScaleHandlesConfiguration" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.PinchSlider" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.PressableButtonHoloLens2" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.SliderSounds" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.Utilities.GridObjectCollection" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.ProgressIndicatorOrbsRotator" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.UI.ToolTip" preserve="all" />
+  </assembly>
+  <assembly fullname="Microsoft.Maps.Unity.SupportingScripts, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Microsoft.Maps.Unity.MapInteractionController" preserve="all" />
+    <type fullname="Microsoft.Maps.Unity.MapPin" preserve="all" />
+    <type fullname="Microsoft.Maps.Unity.MapRenderer" preserve="all" />
+    <type fullname="Microsoft.Maps.Unity.MapContourLineLayer" preserve="all" />
+    <type fullname="Microsoft.Maps.Unity.MapCopyrightLayer" preserve="all" />
+    <type fullname="Microsoft.Maps.Unity.MapDataCache" preserve="all" />
+  </assembly>
+  <assembly fullname="Microsoft.MixedReality.Toolkit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Microsoft.MixedReality.Toolkit.Utilities.SimpleLineDataProvider" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.Utilities.MixedRealityLineRenderer" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.Utilities.MaintainBorderLightWidth" preserve="all" />
+  </assembly>
+  <assembly fullname="Microsoft.Maps.Unity, Version=0.10.1.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Microsoft.Maps.Unity.DefaultElevationTileLayer" preserve="all" />
+    <type fullname="Microsoft.Maps.Unity.DefaultTextureTileLayer" preserve="all" />
+    <type fullname="Microsoft.Maps.Unity.MapSession" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MixedRealityMapInteractionHandler" preserve="all" />
+    <type fullname="MapRaycastProviderRegistration" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="Microsoft.MixedReality.Toolkit.Services.InputSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Microsoft.MixedReality.Toolkit.Input.NearInteractionTouchable" preserve="all" />
+    <type fullname="Microsoft.MixedReality.Toolkit.Input.NearInteractionGrabbable" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.MonoScript" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+</linker>

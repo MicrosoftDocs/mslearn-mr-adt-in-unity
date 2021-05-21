@@ -1,0 +1,32 @@
+{
+    "name": "BladeMR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a7a4c34601384f9389d5c4207f3c6331",
+        "GUID:8b7cc3e86d77403b8b984c08cbaeaf8f",
+        "GUID:f6f27f7d2a9f2cb4e96fd48310b6f2ca",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Maps.Unity.dll",
+        "Microsoft.MixedReality.Input.DotNet.dll",
+        "Microsoft.AspNetCore.SignalR.Client.dll",
+        "Microsoft.AspNetCore.SignalR.Client.Core.dll",
+        "Microsoft.AspNetCore.Http.Connections.Client.dll",
+        "Microsoft.AspNetCore.Http.Features.dll",
+        "Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+        "Microsoft.AspNetCore.SignalR.Common.dll",
+        "Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
