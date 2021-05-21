@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Supporting Scenes/ModuleStartScenes/1_Build3DScene.unity
+    guid: 9a7d550ad40e8664c998a0d8188983d1
+  - enabled: 0
+    path: Assets/Scenes/Supporting Scenes/ModuleStartScenes/2_PlaceDigitalTwinAssets.unity
+    guid: 54688889886f6174a98ccbd5c6d644e0
+  - enabled: 0
+    path: Assets/Scenes/Supporting Scenes/ModuleStartScenes/3_ConnectToTwinData.unity
+    guid: d4a92f002db28294caf0aeefcdce0cba
+  - enabled: 0
+    path: Assets/Scenes/Supporting Scenes/ModuleStartScenes/4_OperateWindFarm.unity
+    guid: 5273acd75b06f254893edca571bd6935
+  - enabled: 0
+    path: Assets/Scenes/Supporting Scenes/ModuleStartScenes/Final_CompletedScene.unity
+    guid: 34300c868fed7a443b2203d70a848b30
+  - enabled: 1
+    path: Assets/Scenes/CompletedScene.unity
+    guid: 9b525369e7b672e44b91a2da80a9fa11
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 8d341e90bdd67914e921da3cb85d3270, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: abff8632290b16d4a95422c2d70e39c1, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ba16014566e21274cb627786d3a825ab, type: 2}
