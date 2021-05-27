@@ -1,3 +1,53 @@
+---
+page_type: sample
+name: Building mixed reality digital twins with Azure Digital Twins and Unity
+description: This sample repository holds all the Azure Digital Twins and Unity assets for the Microsoft Learn path.
+languages:
+- csharp
+- bicep
+products:
+- windows-mixed-reality
+- hololens
+- azure
+---
+
+# Building mixed reality digital twins with Azure Digital Twins and Unity
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+Unity version |
+:-----------------: | 
+Unity 2020.3.8 | 
+
+Learn how to create of a mixed reality HoloLens 2 application using Azure Digital Twins and Unity, a real-time 3D platform. You can find the [full learning path](https://docs.microsoft.com/learn/paths/build-mixed-reality-azure-digital-twins-unity) on Microsoft Learn.
+
+## Contents
+
+| File/folder | Description |
+|-------------|-------------|
+| `ARM-Template` | Pre-configured ARM template for Azure services. |
+| `Device-Simulator` | Visual Studio solution for running the device simulator. |
+| `Unity-Project` | Unity assets, scenes, prefabs, and scripts. |
+| `.gitignore` | Define what to ignore at commit time. |
+| `README.md` | This README file. |
+| `LICENSE`   | The license for the sample. |
+| `SECURITY.md` | Security and issue policies. |
+| `CODE_OF_CONDUCT.md` | Microsoft Code of Conduct. |
+
+## Prerequisites
+
+* A HoloLens 2 device
+* Azure service creation and configuration
+* Basic familiarity with Unity, C#, and GitHub
+* Domain User Azure Active Directory (i.e, not Guest)
+* [Azure CLI installed](https://docs.microsoft.com/cli/azure/install-azure-cli)
+* Bing Maps developer account
+* A Windows 10 PC configured with the required tools
+    - Windows 10 SDK 10.0.18362.0 or later
+    - Unity Hub with Unity 2020.3.0f1 (LTS) installed
+    - Visual Studio 2019, with Universal Windows Platform (UWP) workload installed
+    - USB Device Connectivity
+    - Microsoft Mixed Reality Feature Tool
 
 # Contributing
 
