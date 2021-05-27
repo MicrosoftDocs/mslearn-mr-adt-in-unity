@@ -36,7 +36,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-Packages/MixedReality/*.tgz
 Logs/
 *.pfx
 *.pfx.meta
