@@ -1,6 +1,8 @@
 # Blade Infra 
 ## Required Installs
-Azure CLI: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli
+Azure CLI version 2.20.0 or higher: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli
+
+**Note: The ARM template is in the Bicep format, and if an earlier version of Azure CLI is used, you might get an “invalid JSON” error.**
 
 ## CLI
 ### 1. Clone this Repo
